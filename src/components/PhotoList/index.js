@@ -112,9 +112,7 @@ const PhotoList = ({ category }) => {
                         className="img-thumbnail mx-1"
                         key={image.name}
                     />
-                ))}  
-
-                            
+                ))}                            
             </div>
         </div>
     );     
